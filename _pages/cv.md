@@ -7,7 +7,7 @@ nav_order: 1
 cv_pdf: Glazar_James_CV_11-2022.pdf
 ---
 
-See below, or click this [link](../assets/pdf/Glazar_James_CV_11-2022.pdf)
+See below, or click this [link](https://www.meta.ai)
 
 <div style="margin-left: auto;margin-right: auto;">
     <object data="../assets/pdf/Glazar_James_CV_11-2022.pdf" type="application/pdf" width="825px" height="1175px">
