@@ -9,25 +9,7 @@ category: fun
 
 ⚠️  This project is a work-in-progress. Please check back later! ⚠️
 
-A few weeks ago, I scraped the StubHub website for World Series ticket prices during the 2022 World Series in Philadelphia. 
-It was an exciting time here in Philly, and prices skyrocketed due to high demand. This data project explores ticket prices over time, 
-specifically exploring the similarities between ticket prices and options in the stock market.
-A few weeks ago, I scraped the StubHub website for World Series ticket prices during the 2022 World Series in Philadelphia. 
-It was an exciting time here in Philly, and prices skyrocketed due to high demand. This data project explores ticket prices over time, 
-specifically exploring the similarities between ticket prices and options in the stock market.
-
-
-A few weeks ago, I scraped the StubHub website for World Series ticket prices during the 2022 World Series in Philadelphia. 
-It was an exciting time here in Philly, and prices skyrocketed due to high demand. This data project explores ticket prices over time, 
-specifically exploring the similarities between ticket prices and options in the stock market.
-
-
-
-
-
-A few weeks ago, I scraped the StubHub website for World Series ticket prices during the 2022 World Series in Philadelphia. 
-It was an exciting time here in Philly, and prices skyrocketed due to high demand. This data project explores ticket prices over time, 
-specifically exploring the similarities between ticket prices and options in the stock market.
+A few weeks ago, I scraped the StubHub website for World Series ticket prices during the 2022 World Series in Philadelphia.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
