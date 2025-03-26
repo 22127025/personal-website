@@ -22,7 +22,7 @@ So, to answer your question: Yes, when you change an .md file and rebuild your w
 
 Markdown files (.md) are often used for:
 Documentation: README files, user manuals, and guides.
-Blogging: Writing blog posts with formatted text, images, and links.
+Blogging: Writing blog posts with formatted text, images, and links.                                                                             
 Note-taking: Organizing notes with headings, lists, and emphasis.
 Collaboration: Writing and editing text documents with others.
 
